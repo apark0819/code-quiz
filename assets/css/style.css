@@ -1,0 +1,46 @@
+*:root {
+    background-color: bisque;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+header h1{
+    text-align: center;
+}
+
+header h2{
+    text-align: center;
+}
+
+/*Button styling*/ 
+#start{
+    text-align: center;
+}
+
+#startbtn{
+    font-size: 15px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons #quitbtn {
+    font-size: 15px;
+}
+
+.buttons #restartbtn {
+    font-size: 15px;
+}
+
+.buttons #highscorebtn {
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+/*quiz*/
+#quiz {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
